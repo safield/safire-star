@@ -3,7 +3,7 @@
 	"name": "Safire Star",
 	"semanticHighlighting": true,
 	"colors": {
-		"editor.background": "#1E1E1E",
+		"editor.background": "#1c2329",
 		"editor.foreground": "#D4D4D4",
 		"editor.inactiveSelectionBackground": "#3A3D41",
 		"editorIndentGuide.background": "#404040",
@@ -27,7 +27,7 @@
 		{
 			"name": "Function declarations",
 			"scope": [
-				"entity.name.function",
+				"entity.name.function", // remove this, because it applies to function declarations and references.
 				"support.function",
 				"support.constant.handlebars",
 				"source.powershell variable.other.member",
@@ -115,7 +115,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -436,19 +436,19 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#d1d97a"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#d1d97a"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#d1d97a"
 			}
 		},
 		{
