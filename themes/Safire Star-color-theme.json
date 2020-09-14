@@ -18,7 +18,7 @@
 		"menu.background": "#252526",
 		"menu.foreground": "#CCCCCC",
 		"statusBarItem.remoteForeground": "#FFF",
-		"statusBarItem.remoteBackground": "#16825D",
+		"statusBarItem.remoteBackground": "#7ad1d9",
 		"sideBarSectionHeader.background": "#0000",
 		"sideBarSectionHeader.border": "#ccc3",
 		"tab.lastPinnedBorder": "#ccc3"
@@ -34,7 +34,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#7ad149"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#7ad1d9"
 			}
 		},
 		{
@@ -258,7 +258,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#d17ad9"
 			}
 		},
 		{
