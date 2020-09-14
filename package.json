@@ -1,0 +1,21 @@
+{
+    "name": "safire-star",
+    "displayName": "safire-star",
+    "description": "A nice color theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Safire Star",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Safire Star-color-theme.json"
+            }
+        ]
+    }
+}
