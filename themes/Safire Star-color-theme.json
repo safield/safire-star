@@ -62,6 +62,7 @@
                 "storage.type.variable.cs",
                 "storage.type.annotation.java",
                 "storage.type.generic.java",
+                "variable.other.object.java",
                 "storage.type.java",
                 "storage.type.object.array.java",
                 "storage.type.primitive.array.java",
@@ -245,6 +246,8 @@
             "scope": [
                 "constant.numeric",
                 "variable.other.enummember",
+                "constant.other.enum.java",
+                "variable.other.object.property.java",
                 "keyword.operator.plus.exponent",
                 "keyword.operator.minus.exponent"
             ],
