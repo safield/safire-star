@@ -10,6 +10,7 @@
         "editor.selectionHighlightBackground": "#aa892e1a",
         "editorIndentGuide.background": "#475859",
         "editorIndentGuide.activeBackground": "#5F7678",
+        "editorCursor.foreground": "#ff4f00",
         "list.dropBackground": "#383B3D",
         "activityBarBadge.background": "#BA5676",
         "sideBarTitle.foreground": "#BBBBBB",
