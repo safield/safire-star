@@ -5,9 +5,17 @@
     "colors": {
         "editor.background": "#1c2329",
         "editor.foreground": "#C1C1C1",
-        "editor.selectionBackground": "#892e1a",
+        "editorLineNumber.foreground": "#5F7678",
+        "editor.lineHighlightBackground": "#321c1477",
+        "editor.lineHighlightBorder": "#6a311e77",
+
+        // text selection  and highlight
+        "editor.selectionBackground": "#9b3e1d",
         "editor.inactiveSelectionBackground": "#613120", // Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
-        "editor.selectionHighlightBackground": "#aa892e1a",
+        "editor.selectionHighlightBackground": "#9b3e1daa",
+        "editor.findMatchBackground":"#9b3e1d",
+        "editor.findMatchBorder":"#ef4713",
+
         "editorIndentGuide.background": "#475859",
         "editorIndentGuide.activeBackground": "#5F7678",
         "editorCursor.foreground": "#ff4f00",
