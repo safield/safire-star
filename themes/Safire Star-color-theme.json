@@ -109,6 +109,7 @@
                 "foreground": "#C586C0"
             }
         },
+        /* Leave these as default foreground for now
         {
             "name": "Variable and parameter name",
             "scope": [
@@ -120,7 +121,7 @@
             "settings": {
                 "foreground": "#eeeeee"
             }
-        },
+        },*/
         {
             "name": "Object keys, TS grammar specific",
             "scope": [
