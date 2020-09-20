@@ -108,7 +108,8 @@
                 "support.function",
                 "support.constant.handlebars",
                 "source.powershell variable.other.member",
-                "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
+                "entity.name.operator.custom-literal", // See https://en.cppreference.com/w/cpp/language/user_literal
+                "entity.name.scope-resolution.function.definition.cpp"
             ],
             "settings": {
                 "foreground": "#7ad149"
@@ -151,6 +152,10 @@
                 "storage.type.object.array.groovy",
                 "storage.type.primitive.array.groovy",
                 "storage.type.primitive.groovy",
+                "storage.type.cpp",
+                "storage.type.built-in.cpp",
+                "storage.type.built-in.primitive.cpp",
+                "storage.type.primitive.cpp",
 
                 // java import statements
                 "storage.modifier.import.java",
