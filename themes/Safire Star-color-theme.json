@@ -595,6 +595,7 @@
                 "keyword.operator.logical.python",
                 "keyword.operator.wordlike",
                 "variable.language.wildcard.java",
+                "keyword.operator.comparison.cpp",
                 "keyword.control"
             ],
             "settings": {
