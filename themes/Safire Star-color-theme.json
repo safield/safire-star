@@ -3,6 +3,10 @@
     "name": "Safire Star",
     "semanticHighlighting": true,
     "colors": {
+
+        // foreground color outside of editor, like in command palette
+        "foreground": "#C1C1C1",
+
         "editor.background": "#1e2227",
         "editor.foreground": "#C1C1C1",
         "editorLineNumber.foreground": "#5F7678",
