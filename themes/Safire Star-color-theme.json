@@ -14,11 +14,11 @@
         "editor.lineHighlightBorder": "#6a311e77",
 
         // text selection  and highlight
-        "editor.selectionBackground": "#9b3e1d",
-        "selection.background": "#9b3e1d",
+        "editor.selectionBackground": "#893619",
+        "selection.background": "#893619",
         "editor.inactiveSelectionBackground": "#613120", // Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
         "editor.selectionHighlightBackground": "#9b3e1daa",
-        "editor.findMatchBackground":"#9b3e1d",
+        "editor.findMatchBackground":"#893619",
         "editor.findMatchBorder":"#ef4713",
 
         "editorIndentGuide.background": "#475859",
