@@ -139,7 +139,7 @@
                 "storage.type.variable.cs",
                 "storage.type.annotation.java",
                 "storage.type.generic.java",
-                "variable.other.object.java",
+                //"variable.other.object.java", this caused local variable references to be colored, when they shouldn't be
                 "storage.type.java",
                 "storage.type.object.array.java",
                 "storage.type.primitive.array.java",
