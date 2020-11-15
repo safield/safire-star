@@ -7,11 +7,11 @@
         // foreground color outside of editor, like in command palette
         "foreground": "#C1C1C1",
 
-        "editor.background": "#1e2227",
+        "editor.background": "#282a36",
         "editor.foreground": "#C1C1C1",
         "editorLineNumber.foreground": "#5F7678",
-        "editor.lineHighlightBackground": "#321c1477",
-        "editor.lineHighlightBorder": "#6a311e77",
+        "editor.lineHighlightBackground": "#276a5c22",
+        "editor.lineHighlightBorder": "#276a5c77",
 
         // text selection  and highlight
         "editor.selectionBackground": "#893619",
@@ -33,28 +33,28 @@
         "menu.background": "#252526",
         "menu.foreground": "#CCCCCC",
         "statusBarItem.remoteForeground": "#FFF",
-        "statusBarItem.remoteBackground": "#7ad1d9",
+        "statusBarItem.remoteBackground": "#71ffe1",
         "sideBarSectionHeader.background": "#0000",
         "sideBarSectionHeader.border": "#ccc3",
 
         "editorError.foreground": "#C62D42",
         "editorInfo.foreground": "#bbdddd",
         "editorWarning.foreground": "#d4ac0d",
-        "editorGroup.background": "#181A1F",
+        "editorGroup.background": "#1e1f29",
         "editorGroup.border": "#080A0F",
-        "editorGroupHeader.tabsBackground": "#181A1F",
-        "editorHoverWidget.background": "#181A1F",
+        "editorGroupHeader.tabsBackground": "#1e1f29",
+        "editorHoverWidget.background": "#1e1f29",
         "editorHoverWidget.border": "#61afef",
         "editorOverviewRuler.border": "#080A0F",
         "editorOverviewRuler.errorForeground": "#C62D42",
         "editorOverviewRuler.infoForeground": "#1B659D",
         "editorOverviewRuler.warningForeground": "#d4ac0d",
         "editorRuler.foreground": "#3E4451",
-        "editorSuggestWidget.background": "#181A1F",
+        "editorSuggestWidget.background": "#1e1f29",
         "editorSuggestWidget.border": "#61afef",
         "editorSuggestWidget.selectedBackground": "#2c313a",
         "editorWhitespace.foreground": "#3E4451",
-        "editorWidget.background": "#1e2227",
+        "editorWidget.background": "#282a36",
         "focusBorder": "#61afef",
         "input.background": "#080A0F",
         "inputOption.activeBorder": "#61afef",
@@ -66,30 +66,30 @@
         "inputValidation.warningBorder": "#d4ac0d",
         "list.hoverBackground": "#292d35",
         "list.focusBackground": "#2c313a",
-        "notification.background": "#1e2227",
+        "notification.background": "#282a36",
         "notification.infoBackground": "#1B659D",
         "notification.warningBackground": "#d4ac0d",
         "notification.errorBackground": "#C62D42",
-        "panel.background": "#181A1F",
+        "panel.background": "#1e1f29",
         "panel.border": "#080A0F",
         "scrollbarSlider.background": "#5F767855",
         "scrollbarSlider.hoverBackground": "#5F76788f",
         "scrollbarSlider.activeBackground": "#5F767877",
-        "sideBar.background": "#181A1F",
-        "sideBarSectionHeader.background": "#1e2227",
-        "statusBar.background": "#1e2227",
+        "sideBar.background": "#1e1f29",
+        "sideBarSectionHeader.background": "#282a36",
+        "statusBar.background": "#282a36",
         "statusBar.foreground": "#9da5b4",
         "statusBarItem.hoverBackground": "#2c313a",
-        "statusBar.noFolderBackground": "#1e2227",
-        "statusBar.debuggingBackground": "#1e2227",
-        "tab.activeBackground": "#1e2227",
+        "statusBar.noFolderBackground": "#282a36",
+        "statusBar.debuggingBackground": "#282a36",
+        "tab.activeBackground": "#282a36",
         "tab.activeForeground": "#9da5b4",
         "tab.border": "#080A0F",
-        "tab.inactiveBackground": "#181A1F",
+        "tab.inactiveBackground": "#1e1f29",
         "tab.inactiveForeground": "#737c8c",
-        "titleBar.activeBackground": "#1e2227",
+        "titleBar.activeBackground": "#282a36",
         "titleBar.activeForeground": "#9da5b4",
-        "titleBar.inactiveBackground": "#1e2227",
+        "titleBar.inactiveBackground": "#282a36",
         "titleBar.inactiveForeground": "#6B717D",
         "widget.shadow": "#080A0F",
 
@@ -162,7 +162,7 @@
                 "storage.modifier.package.java"
             ],
             "settings": {
-                "foreground": "#7ad1d9"
+                "foreground": "#71ffe1"
             }
         },
         {
@@ -176,7 +176,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#4EC9B0"
+                "foreground": "#71ffe1"
             }
         },
         {
@@ -319,7 +319,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#5F7678"
+                "foreground": "#575b71"
             }
         },
         {
