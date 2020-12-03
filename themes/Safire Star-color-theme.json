@@ -9,33 +9,47 @@
 
         "editor.background": "#282a36",
         "editor.foreground": "#C1C1C1",
-        "editorLineNumber.foreground": "#5F7678",
-        "editor.lineHighlightBackground": "#276a5c22",
+        "editorLineNumber.foreground": "#7a809f90",
+        // "editor.lineHighlightBackground": "#276a5c22",
         "editor.lineHighlightBorder": "#276a5c77",
 
         // text selection  and highlight
         "editor.selectionBackground": "#893619",
-        "selection.background": "#893619",
+        "selection.background": "#65e1c788",
         "editor.inactiveSelectionBackground": "#613120", // Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
         "editor.selectionHighlightBackground": "#9b3e1daa",
         "editor.findMatchBackground":"#893619",
         "editor.findMatchBorder":"#ef4713",
 
+        "descriptionForeground":"#65e1c7",
+
+        "editorHint.foreground":"#65e1c7",
+
         "editorIndentGuide.background": "#475859",
         "editorIndentGuide.activeBackground": "#5F7678",
         "editorCursor.foreground": "#ff4f00",
         "list.dropBackground": "#383B3D",
-        "activityBarBadge.background": "#BA5676",
-        "sideBarTitle.foreground": "#BBBBBB",
-        "input.placeholderForeground": "#A6A6A6",
+
         "settings.textInputBackground": "#292929",
         "settings.numberInputBackground": "#292929",
         "menu.background": "#252526",
         "menu.foreground": "#CCCCCC",
         "statusBarItem.remoteForeground": "#FFF",
-        "statusBarItem.remoteBackground": "#71ffe1",
+        "statusBarItem.remoteBackground": "#65e1c7",
+
+        // this is the text that shows up in "Quick fix" links
+        "textLink.activeForeground":"#C62D42",
+        "textLink.foreground":"#C62D42",
+
+        // the left most bar with the 4 (or more) icons)
+        "activityBarBadge.background": "#65e1c7",
+        "activityBar.background":"#282a36",
+
+        "sideBarTitle.foreground": "#BBBBBB",
         "sideBarSectionHeader.background": "#0000",
         "sideBarSectionHeader.border": "#ccc3",
+        "sideBar.background": "#1e1f29",
+        "sideBarSectionHeader.background": "#282a36",
 
         "editorError.foreground": "#C62D42",
         "editorInfo.foreground": "#bbdddd",
@@ -44,30 +58,38 @@
         "editorGroup.border": "#080A0F",
         "editorGroupHeader.tabsBackground": "#1e1f29",
         "editorHoverWidget.background": "#1e1f29",
-        "editorHoverWidget.border": "#61afef",
         "editorOverviewRuler.border": "#080A0F",
         "editorOverviewRuler.errorForeground": "#C62D42",
-        "editorOverviewRuler.infoForeground": "#1B659D",
+        "editorOverviewRuler.infoForeground": "#65e1c7",
         "editorOverviewRuler.warningForeground": "#d4ac0d",
         "editorRuler.foreground": "#3E4451",
         "editorSuggestWidget.background": "#1e1f29",
-        "editorSuggestWidget.border": "#61afef",
+        "editorHoverWidget.border": "#636886",
+        "editorSuggestWidget.border": "#636886",
         "editorSuggestWidget.selectedBackground": "#2c313a",
         "editorWhitespace.foreground": "#3E4451",
         "editorWidget.background": "#282a36",
-        "focusBorder": "#61afef",
-        "input.background": "#080A0F",
-        "inputOption.activeBorder": "#61afef",
+        "focusBorder": "#65e1c788",
+
+        "input.background": "#1b1a1f",
+        "input.foreground": "#ffffff",
+        "input.placeholderForeground": "#A6A6A6",
+        "input.border": "#65e1c788",
+        "inputOption.activeBorder": "#65e1c788",
         "inputValidation.errorBackground": "#C62D42",
         "inputValidation.errorBorder": "#C62D42",
-        "inputValidation.infoBackground": "#1B659D",
-        "inputValidation.infoBorder": "#1B659D",
+        "inputValidation.infoBackground": "#65e1c788",
+        "inputValidation.infoBorder": "#65e1c788",
         "inputValidation.warningBackground": "#d4ac0d",
         "inputValidation.warningBorder": "#d4ac0d",
-        "list.hoverBackground": "#292d35",
-        "list.focusBackground": "#2c313a",
+
+        // this is the colors for the command pallete and sidebar selected item
+        "list.hoverBackground": "#8880af40",
+        "list.focusBackground": "#8880af40",
+        "list.highlightForeground":"#cfacff", // the text color of hints in command palette
+
         "notification.background": "#282a36",
-        "notification.infoBackground": "#1B659D",
+        "notification.infoBackground": "#65e1c7",
         "notification.warningBackground": "#d4ac0d",
         "notification.errorBackground": "#C62D42",
         "panel.background": "#1e1f29",
@@ -75,8 +97,6 @@
         "scrollbarSlider.background": "#5F767855",
         "scrollbarSlider.hoverBackground": "#5F76788f",
         "scrollbarSlider.activeBackground": "#5F767877",
-        "sideBar.background": "#1e1f29",
-        "sideBarSectionHeader.background": "#282a36",
         "statusBar.background": "#282a36",
         "statusBar.foreground": "#9da5b4",
         "statusBarItem.hoverBackground": "#2c313a",
@@ -162,7 +182,7 @@
                 "storage.modifier.package.java"
             ],
             "settings": {
-                "foreground": "#71ffe1"
+                "foreground": "#65e1c7"
             }
         },
         {
@@ -176,7 +196,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#71ffe1"
+                "foreground": "#65e1c7"
             }
         },
         {
@@ -319,7 +339,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#575b71"
+                "foreground": "#7a809f"
             }
         },
         {
