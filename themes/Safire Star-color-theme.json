@@ -37,13 +37,10 @@
         "statusBarItem.remoteForeground": "#FFF",
         "statusBarItem.remoteBackground": "#65e1c7",
 
-        // this is the text that shows up in "Quick fix" links
-        "textLink.activeForeground":"#C62D42",
-        "textLink.foreground":"#C62D42",
-
         // the left most bar with the 4 (or more) icons)
         "activityBarBadge.background": "#65e1c7",
         "activityBar.background":"#282a36",
+        "button.background":"#65e1c7aa",
 
         "sideBarTitle.foreground": "#BBBBBB",
         "sideBarSectionHeader.background": "#0000",
@@ -86,7 +83,10 @@
         // this is the colors for the command pallete and sidebar selected item
         "list.hoverBackground": "#8880af40",
         "list.focusBackground": "#8880af40",
-        "list.highlightForeground":"#cfacff", // the text color of hints in command palette
+        // this is the text that shows up in "Quick fix" links
+        "textLink.activeForeground":"#d17ad9",
+        "textLink.foreground":"#d17ad9",
+        "list.highlightForeground":"#d17ad9", // the text color of hints in command palette
 
         "notification.background": "#282a36",
         "notification.infoBackground": "#65e1c7",
@@ -339,7 +339,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#7a809f"
+                "foreground": "#6c6d8c"
             }
         },
         {
