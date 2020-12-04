@@ -82,8 +82,9 @@
         // this is the colors for the command pallete and sidebar selected item
         "list.hoverBackground": "#8880af40",
         "list.focusBackground": "#8880af40",
-        "list.activeSelectionBackground":"#65e1c788",
-        "button.background":"#65e1c788",
+        "list.inactiveSelectionBackground":"#65e1c722",
+        "list.activeSelectionBackground":"#65e1c781",
+        "button.background":"#65e1c781",
         // this is the text that shows up in "Quick fix" links
         "textLink.activeForeground":"#d17ad9",
         "textLink.foreground":"#d17ad9",
