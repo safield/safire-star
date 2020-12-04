@@ -40,7 +40,6 @@
         // the left most bar with the 4 (or more) icons)
         "activityBarBadge.background": "#65e1c7",
         "activityBar.background":"#282a36",
-        "button.background":"#65e1c7aa",
 
         "sideBarTitle.foreground": "#BBBBBB",
         "sideBarSectionHeader.background": "#0000",
@@ -66,7 +65,7 @@
         "editorSuggestWidget.selectedBackground": "#2c313a",
         "editorWhitespace.foreground": "#3E4451",
         "editorWidget.background": "#282a36",
-        "focusBorder": "#65e1c788",
+        "focusBorder": "#65e1c7ff",
 
         "input.background": "#1b1a1f",
         "input.foreground": "#ffffff",
@@ -83,6 +82,8 @@
         // this is the colors for the command pallete and sidebar selected item
         "list.hoverBackground": "#8880af40",
         "list.focusBackground": "#8880af40",
+        "list.activeSelectionBackground":"#65e1c788",
+        "button.background":"#65e1c788",
         // this is the text that shows up in "Quick fix" links
         "textLink.activeForeground":"#d17ad9",
         "textLink.foreground":"#d17ad9",
@@ -112,9 +113,10 @@
         "titleBar.inactiveBackground": "#282a36",
         "titleBar.inactiveForeground": "#6B717D",
         "widget.shadow": "#080A0F",
+        "badge.background":"#65e1c7",
 
         "workbench.colorCustomizations": {
-            "tab.activeBorder": "#ff0000",
+            "tab.activeBorder": "#BA5676",
             "tab.unfocusedActiveBorder": "#000000"
         },
 
