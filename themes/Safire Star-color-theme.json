@@ -80,8 +80,8 @@
         "inputValidation.warningBorder": "#d4ac0d",
 
         // this is the colors for the command pallete and sidebar selected item
-        "list.hoverBackground": "#8880af40",
-        "list.focusBackground": "#8880af40",
+        "list.hoverBackground": "#8880af2f",
+        "list.focusBackground": "#8880af2f",
         "list.inactiveSelectionBackground":"#65e1c722",
         "list.activeSelectionBackground":"#65e1c781",
         "button.background":"#65e1c781",
@@ -602,7 +602,7 @@
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#d4d4d4"
+                "foreground": "#BA5676"
             }
         },
         {
