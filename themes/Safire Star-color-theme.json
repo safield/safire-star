@@ -89,6 +89,8 @@
         "textLink.activeForeground":"#d17ad9",
         "textLink.foreground":"#d17ad9",
         "list.highlightForeground":"#d17ad9", // the text color of hints in command palette
+        "editorSuggestWidget.selectedBackground": "#65e1c760", // the color of the active code completion entry
+        "editorSuggestWidget.highlightForeground": "#d17ad9", // the color of the matching text for the code completion list.
 
         "notification.background": "#282a36",
         "notification.infoBackground": "#65e1c7",
