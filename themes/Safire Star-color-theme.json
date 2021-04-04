@@ -8,7 +8,7 @@
         "foreground": "#C1C1C1",
 
         "editor.background": "#282a36",
-        "editor.foreground": "#C1C1C1",
+        "editor.foreground": "#C1C1bb",
         "editorLineNumber.foreground": "#7a809f90",
         // "editor.lineHighlightBackground": "#276a5c22",
         "editor.lineHighlightBorder": "#276a5c77",
